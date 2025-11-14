@@ -1,0 +1,202 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mmamg/FelevesFeladat/Application/FelevesFeladat.Application/ELZ5NE_HSZF_2024252.Application.csproj": {}
+  },
+  "projects": {
+    "/Users/mmamg/FelevesFeladat/Application/FelevesFeladat.Application/ELZ5NE_HSZF_2024252.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mmamg/FelevesFeladat/Application/FelevesFeladat.Application/ELZ5NE_HSZF_2024252.Application.csproj",
+        "projectName": "ELZ5NE_HSZF_2024252.Application",
+        "projectPath": "/Users/mmamg/FelevesFeladat/Application/FelevesFeladat.Application/ELZ5NE_HSZF_2024252.Application.csproj",
+        "packagesPath": "/Users/mmamg/.nuget/packages/",
+        "outputPath": "/Users/mmamg/FelevesFeladat/Application/FelevesFeladat.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mmamg/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/mmamg/FelevesFeladat/Domain/FelevesFeladat.Model/FelevesFeladat.Model.csproj": {
+                "projectPath": "/Users/mmamg/FelevesFeladat/Domain/FelevesFeladat.Model/FelevesFeladat.Model.csproj"
+              },
+              "/Users/mmamg/FelevesFeladat/Infrastructure/FelevesFeladat.Persistence.MsSql/FelevesFeladat.Persistence.MsSql.csproj": {
+                "projectPath": "/Users/mmamg/FelevesFeladat/Infrastructure/FelevesFeladat.Persistence.MsSql/FelevesFeladat.Persistence.MsSql.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mmamg/FelevesFeladat/Domain/FelevesFeladat.Model/FelevesFeladat.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mmamg/FelevesFeladat/Domain/FelevesFeladat.Model/FelevesFeladat.Model.csproj",
+        "projectName": "FelevesFeladat.Model",
+        "projectPath": "/Users/mmamg/FelevesFeladat/Domain/FelevesFeladat.Model/FelevesFeladat.Model.csproj",
+        "packagesPath": "/Users/mmamg/.nuget/packages/",
+        "outputPath": "/Users/mmamg/FelevesFeladat/Domain/FelevesFeladat.Model/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mmamg/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mmamg/FelevesFeladat/Infrastructure/FelevesFeladat.Persistence.MsSql/FelevesFeladat.Persistence.MsSql.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mmamg/FelevesFeladat/Infrastructure/FelevesFeladat.Persistence.MsSql/FelevesFeladat.Persistence.MsSql.csproj",
+        "projectName": "FelevesFeladat.Persistence.MsSql",
+        "projectPath": "/Users/mmamg/FelevesFeladat/Infrastructure/FelevesFeladat.Persistence.MsSql/FelevesFeladat.Persistence.MsSql.csproj",
+        "packagesPath": "/Users/mmamg/.nuget/packages/",
+        "outputPath": "/Users/mmamg/FelevesFeladat/Infrastructure/FelevesFeladat.Persistence.MsSql/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mmamg/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/mmamg/FelevesFeladat/Domain/FelevesFeladat.Model/FelevesFeladat.Model.csproj": {
+                "projectPath": "/Users/mmamg/FelevesFeladat/Domain/FelevesFeladat.Model/FelevesFeladat.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

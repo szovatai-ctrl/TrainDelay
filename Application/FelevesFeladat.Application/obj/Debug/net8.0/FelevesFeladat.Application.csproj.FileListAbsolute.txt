@@ -1,0 +1,51 @@
+Y:\FelevesFeladat\Application\FelevesFeladat.Application\bin\Debug\net8.0\FelevesFeladat.Application.deps.json
+Y:\FelevesFeladat\Application\FelevesFeladat.Application\bin\Debug\net8.0\FelevesFeladat.Application.dll
+Y:\FelevesFeladat\Application\FelevesFeladat.Application\bin\Debug\net8.0\FelevesFeladat.Application.pdb
+Y:\FelevesFeladat\Application\FelevesFeladat.Application\bin\Debug\net8.0\FelevesFeladat.Model.dll
+Y:\FelevesFeladat\Application\FelevesFeladat.Application\bin\Debug\net8.0\FelevesFeladat.Persistence.MsSql.dll
+Y:\FelevesFeladat\Application\FelevesFeladat.Application\bin\Debug\net8.0\FelevesFeladat.Model.pdb
+Y:\FelevesFeladat\Application\FelevesFeladat.Application\bin\Debug\net8.0\FelevesFeladat.Persistence.MsSql.pdb
+Y:\FelevesFeladat\Application\FelevesFeladat.Application\obj\Debug\net8.0\FelevesFeladat.Application.csproj.AssemblyReference.cache
+Y:\FelevesFeladat\Application\FelevesFeladat.Application\obj\Debug\net8.0\FelevesFeladat.Application.GeneratedMSBuildEditorConfig.editorconfig
+Y:\FelevesFeladat\Application\FelevesFeladat.Application\obj\Debug\net8.0\FelevesFeladat.Application.AssemblyInfoInputs.cache
+Y:\FelevesFeladat\Application\FelevesFeladat.Application\obj\Debug\net8.0\FelevesFeladat.Application.AssemblyInfo.cs
+Y:\FelevesFeladat\Application\FelevesFeladat.Application\obj\Debug\net8.0\FelevesFeladat.Application.csproj.CoreCompileInputs.cache
+Y:\FelevesFeladat\Application\FelevesFeladat.Application\obj\Debug\net8.0\FelevesF.6AAA74E8.Up2Date
+Y:\FelevesFeladat\Application\FelevesFeladat.Application\obj\Debug\net8.0\FelevesFeladat.Application.dll
+Y:\FelevesFeladat\Application\FelevesFeladat.Application\obj\Debug\net8.0\refint\FelevesFeladat.Application.dll
+Y:\FelevesFeladat\Application\FelevesFeladat.Application\obj\Debug\net8.0\FelevesFeladat.Application.pdb
+Y:\FelevesFeladat\Application\FelevesFeladat.Application\obj\Debug\net8.0\ref\FelevesFeladat.Application.dll
+D:\C\Máv infó\Application\FelevesFeladat.Application\obj\Debug\net8.0\FelevesFeladat.Application.dll
+D:\C\Máv infó\Application\FelevesFeladat.Application\obj\Debug\net8.0\refint\FelevesFeladat.Application.dll
+D:\C\Máv infó\Application\FelevesFeladat.Application\obj\Debug\net8.0\FelevesFeladat.Application.pdb
+D:\C\Máv infó\Application\FelevesFeladat.Application\bin\Debug\net8.0\FelevesFeladat.Application.deps.json
+D:\C\Máv infó\Application\FelevesFeladat.Application\bin\Debug\net8.0\FelevesFeladat.Application.dll
+D:\C\Máv infó\Application\FelevesFeladat.Application\bin\Debug\net8.0\FelevesFeladat.Application.pdb
+D:\C\Máv infó\Application\FelevesFeladat.Application\bin\Debug\net8.0\FelevesFeladat.Model.dll
+D:\C\Máv infó\Application\FelevesFeladat.Application\bin\Debug\net8.0\FelevesFeladat.Persistence.MsSql.dll
+D:\C\Máv infó\Application\FelevesFeladat.Application\bin\Debug\net8.0\FelevesFeladat.Model.pdb
+D:\C\Máv infó\Application\FelevesFeladat.Application\bin\Debug\net8.0\FelevesFeladat.Persistence.MsSql.pdb
+D:\C\Máv infó\Application\FelevesFeladat.Application\obj\Debug\net8.0\FelevesFeladat.Application.csproj.AssemblyReference.cache
+D:\C\Máv infó\Application\FelevesFeladat.Application\obj\Debug\net8.0\FelevesFeladat.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Máv infó\Application\FelevesFeladat.Application\obj\Debug\net8.0\FelevesFeladat.Application.AssemblyInfoInputs.cache
+D:\C\Máv infó\Application\FelevesFeladat.Application\obj\Debug\net8.0\FelevesFeladat.Application.AssemblyInfo.cs
+D:\C\Máv infó\Application\FelevesFeladat.Application\obj\Debug\net8.0\FelevesFeladat.Application.csproj.CoreCompileInputs.cache
+D:\C\Máv infó\Application\FelevesFeladat.Application\obj\Debug\net8.0\FelevesF.6AAA74E8.Up2Date
+D:\C\Máv infó\Application\FelevesFeladat.Application\obj\Debug\net8.0\ref\FelevesFeladat.Application.dll
+D:\C\Máv3\Application\FelevesFeladat.Application\bin\Debug\net8.0\FelevesFeladat.Application.deps.json
+D:\C\Máv3\Application\FelevesFeladat.Application\bin\Debug\net8.0\FelevesFeladat.Application.dll
+D:\C\Máv3\Application\FelevesFeladat.Application\bin\Debug\net8.0\FelevesFeladat.Application.pdb
+D:\C\Máv3\Application\FelevesFeladat.Application\bin\Debug\net8.0\FelevesFeladat.Model.dll
+D:\C\Máv3\Application\FelevesFeladat.Application\bin\Debug\net8.0\FelevesFeladat.Persistence.MsSql.dll
+D:\C\Máv3\Application\FelevesFeladat.Application\bin\Debug\net8.0\FelevesFeladat.Model.pdb
+D:\C\Máv3\Application\FelevesFeladat.Application\bin\Debug\net8.0\FelevesFeladat.Persistence.MsSql.pdb
+D:\C\Máv3\Application\FelevesFeladat.Application\obj\Debug\net8.0\FelevesFeladat.Application.csproj.AssemblyReference.cache
+D:\C\Máv3\Application\FelevesFeladat.Application\obj\Debug\net8.0\FelevesFeladat.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Máv3\Application\FelevesFeladat.Application\obj\Debug\net8.0\FelevesFeladat.Application.AssemblyInfoInputs.cache
+D:\C\Máv3\Application\FelevesFeladat.Application\obj\Debug\net8.0\FelevesFeladat.Application.AssemblyInfo.cs
+D:\C\Máv3\Application\FelevesFeladat.Application\obj\Debug\net8.0\FelevesFeladat.Application.csproj.CoreCompileInputs.cache
+D:\C\Máv3\Application\FelevesFeladat.Application\obj\Debug\net8.0\FelevesF.6AAA74E8.Up2Date
+D:\C\Máv3\Application\FelevesFeladat.Application\obj\Debug\net8.0\FelevesFeladat.Application.dll
+D:\C\Máv3\Application\FelevesFeladat.Application\obj\Debug\net8.0\refint\FelevesFeladat.Application.dll
+D:\C\Máv3\Application\FelevesFeladat.Application\obj\Debug\net8.0\FelevesFeladat.Application.pdb
+D:\C\Máv3\Application\FelevesFeladat.Application\obj\Debug\net8.0\ref\FelevesFeladat.Application.dll

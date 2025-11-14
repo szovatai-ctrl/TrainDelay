@@ -1,0 +1,45 @@
+Y:\FelevesFeladat\Infrastructure\FelevesFeladat.Persistence.MsSql\bin\Debug\net8.0\FelevesFeladat.Persistence.MsSql.deps.json
+Y:\FelevesFeladat\Infrastructure\FelevesFeladat.Persistence.MsSql\bin\Debug\net8.0\FelevesFeladat.Persistence.MsSql.dll
+Y:\FelevesFeladat\Infrastructure\FelevesFeladat.Persistence.MsSql\bin\Debug\net8.0\FelevesFeladat.Persistence.MsSql.pdb
+Y:\FelevesFeladat\Infrastructure\FelevesFeladat.Persistence.MsSql\bin\Debug\net8.0\FelevesFeladat.Model.dll
+Y:\FelevesFeladat\Infrastructure\FelevesFeladat.Persistence.MsSql\bin\Debug\net8.0\FelevesFeladat.Model.pdb
+Y:\FelevesFeladat\Infrastructure\FelevesFeladat.Persistence.MsSql\obj\Debug\net8.0\FelevesFeladat.Persistence.MsSql.csproj.AssemblyReference.cache
+Y:\FelevesFeladat\Infrastructure\FelevesFeladat.Persistence.MsSql\obj\Debug\net8.0\FelevesFeladat.Persistence.MsSql.GeneratedMSBuildEditorConfig.editorconfig
+Y:\FelevesFeladat\Infrastructure\FelevesFeladat.Persistence.MsSql\obj\Debug\net8.0\FelevesFeladat.Persistence.MsSql.AssemblyInfoInputs.cache
+Y:\FelevesFeladat\Infrastructure\FelevesFeladat.Persistence.MsSql\obj\Debug\net8.0\FelevesFeladat.Persistence.MsSql.AssemblyInfo.cs
+Y:\FelevesFeladat\Infrastructure\FelevesFeladat.Persistence.MsSql\obj\Debug\net8.0\FelevesFeladat.Persistence.MsSql.csproj.CoreCompileInputs.cache
+Y:\FelevesFeladat\Infrastructure\FelevesFeladat.Persistence.MsSql\obj\Debug\net8.0\FelevesF.7C44D410.Up2Date
+Y:\FelevesFeladat\Infrastructure\FelevesFeladat.Persistence.MsSql\obj\Debug\net8.0\FelevesFeladat.Persistence.MsSql.dll
+Y:\FelevesFeladat\Infrastructure\FelevesFeladat.Persistence.MsSql\obj\Debug\net8.0\refint\FelevesFeladat.Persistence.MsSql.dll
+Y:\FelevesFeladat\Infrastructure\FelevesFeladat.Persistence.MsSql\obj\Debug\net8.0\FelevesFeladat.Persistence.MsSql.pdb
+Y:\FelevesFeladat\Infrastructure\FelevesFeladat.Persistence.MsSql\obj\Debug\net8.0\ref\FelevesFeladat.Persistence.MsSql.dll
+D:\C\Máv infó\Infrastructure\FelevesFeladat.Persistence.MsSql\obj\Debug\net8.0\FelevesFeladat.Persistence.MsSql.dll
+D:\C\Máv infó\Infrastructure\FelevesFeladat.Persistence.MsSql\obj\Debug\net8.0\refint\FelevesFeladat.Persistence.MsSql.dll
+D:\C\Máv infó\Infrastructure\FelevesFeladat.Persistence.MsSql\obj\Debug\net8.0\FelevesFeladat.Persistence.MsSql.pdb
+D:\C\Máv infó\Infrastructure\FelevesFeladat.Persistence.MsSql\bin\Debug\net8.0\FelevesFeladat.Persistence.MsSql.deps.json
+D:\C\Máv infó\Infrastructure\FelevesFeladat.Persistence.MsSql\bin\Debug\net8.0\FelevesFeladat.Persistence.MsSql.dll
+D:\C\Máv infó\Infrastructure\FelevesFeladat.Persistence.MsSql\bin\Debug\net8.0\FelevesFeladat.Persistence.MsSql.pdb
+D:\C\Máv infó\Infrastructure\FelevesFeladat.Persistence.MsSql\bin\Debug\net8.0\FelevesFeladat.Model.dll
+D:\C\Máv infó\Infrastructure\FelevesFeladat.Persistence.MsSql\bin\Debug\net8.0\FelevesFeladat.Model.pdb
+D:\C\Máv infó\Infrastructure\FelevesFeladat.Persistence.MsSql\obj\Debug\net8.0\FelevesFeladat.Persistence.MsSql.csproj.AssemblyReference.cache
+D:\C\Máv infó\Infrastructure\FelevesFeladat.Persistence.MsSql\obj\Debug\net8.0\FelevesFeladat.Persistence.MsSql.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Máv infó\Infrastructure\FelevesFeladat.Persistence.MsSql\obj\Debug\net8.0\FelevesFeladat.Persistence.MsSql.AssemblyInfoInputs.cache
+D:\C\Máv infó\Infrastructure\FelevesFeladat.Persistence.MsSql\obj\Debug\net8.0\FelevesFeladat.Persistence.MsSql.AssemblyInfo.cs
+D:\C\Máv infó\Infrastructure\FelevesFeladat.Persistence.MsSql\obj\Debug\net8.0\FelevesFeladat.Persistence.MsSql.csproj.CoreCompileInputs.cache
+D:\C\Máv infó\Infrastructure\FelevesFeladat.Persistence.MsSql\obj\Debug\net8.0\FelevesF.7C44D410.Up2Date
+D:\C\Máv infó\Infrastructure\FelevesFeladat.Persistence.MsSql\obj\Debug\net8.0\ref\FelevesFeladat.Persistence.MsSql.dll
+D:\C\Máv3\Infrastructure\FelevesFeladat.Persistence.MsSql\bin\Debug\net8.0\FelevesFeladat.Persistence.MsSql.deps.json
+D:\C\Máv3\Infrastructure\FelevesFeladat.Persistence.MsSql\bin\Debug\net8.0\FelevesFeladat.Persistence.MsSql.dll
+D:\C\Máv3\Infrastructure\FelevesFeladat.Persistence.MsSql\bin\Debug\net8.0\FelevesFeladat.Persistence.MsSql.pdb
+D:\C\Máv3\Infrastructure\FelevesFeladat.Persistence.MsSql\bin\Debug\net8.0\FelevesFeladat.Model.dll
+D:\C\Máv3\Infrastructure\FelevesFeladat.Persistence.MsSql\bin\Debug\net8.0\FelevesFeladat.Model.pdb
+D:\C\Máv3\Infrastructure\FelevesFeladat.Persistence.MsSql\obj\Debug\net8.0\FelevesFeladat.Persistence.MsSql.csproj.AssemblyReference.cache
+D:\C\Máv3\Infrastructure\FelevesFeladat.Persistence.MsSql\obj\Debug\net8.0\FelevesFeladat.Persistence.MsSql.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Máv3\Infrastructure\FelevesFeladat.Persistence.MsSql\obj\Debug\net8.0\FelevesFeladat.Persistence.MsSql.AssemblyInfoInputs.cache
+D:\C\Máv3\Infrastructure\FelevesFeladat.Persistence.MsSql\obj\Debug\net8.0\FelevesFeladat.Persistence.MsSql.AssemblyInfo.cs
+D:\C\Máv3\Infrastructure\FelevesFeladat.Persistence.MsSql\obj\Debug\net8.0\FelevesFeladat.Persistence.MsSql.csproj.CoreCompileInputs.cache
+D:\C\Máv3\Infrastructure\FelevesFeladat.Persistence.MsSql\obj\Debug\net8.0\FelevesF.7C44D410.Up2Date
+D:\C\Máv3\Infrastructure\FelevesFeladat.Persistence.MsSql\obj\Debug\net8.0\FelevesFeladat.Persistence.MsSql.dll
+D:\C\Máv3\Infrastructure\FelevesFeladat.Persistence.MsSql\obj\Debug\net8.0\refint\FelevesFeladat.Persistence.MsSql.dll
+D:\C\Máv3\Infrastructure\FelevesFeladat.Persistence.MsSql\obj\Debug\net8.0\FelevesFeladat.Persistence.MsSql.pdb
+D:\C\Máv3\Infrastructure\FelevesFeladat.Persistence.MsSql\obj\Debug\net8.0\ref\FelevesFeladat.Persistence.MsSql.dll

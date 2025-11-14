@@ -1,0 +1,33 @@
+Y:\FelevesFeladat\Domain\FelevesFeladat.Model\bin\Debug\net8.0\FelevesFeladat.Model.deps.json
+Y:\FelevesFeladat\Domain\FelevesFeladat.Model\bin\Debug\net8.0\FelevesFeladat.Model.dll
+Y:\FelevesFeladat\Domain\FelevesFeladat.Model\bin\Debug\net8.0\FelevesFeladat.Model.pdb
+Y:\FelevesFeladat\Domain\FelevesFeladat.Model\obj\Debug\net8.0\FelevesFeladat.Model.GeneratedMSBuildEditorConfig.editorconfig
+Y:\FelevesFeladat\Domain\FelevesFeladat.Model\obj\Debug\net8.0\FelevesFeladat.Model.AssemblyInfoInputs.cache
+Y:\FelevesFeladat\Domain\FelevesFeladat.Model\obj\Debug\net8.0\FelevesFeladat.Model.AssemblyInfo.cs
+Y:\FelevesFeladat\Domain\FelevesFeladat.Model\obj\Debug\net8.0\FelevesFeladat.Model.csproj.CoreCompileInputs.cache
+Y:\FelevesFeladat\Domain\FelevesFeladat.Model\obj\Debug\net8.0\FelevesFeladat.Model.dll
+Y:\FelevesFeladat\Domain\FelevesFeladat.Model\obj\Debug\net8.0\refint\FelevesFeladat.Model.dll
+Y:\FelevesFeladat\Domain\FelevesFeladat.Model\obj\Debug\net8.0\FelevesFeladat.Model.pdb
+Y:\FelevesFeladat\Domain\FelevesFeladat.Model\obj\Debug\net8.0\ref\FelevesFeladat.Model.dll
+D:\C\Máv infó\Domain\FelevesFeladat.Model\bin\Debug\net8.0\FelevesFeladat.Model.deps.json
+D:\C\Máv infó\Domain\FelevesFeladat.Model\bin\Debug\net8.0\FelevesFeladat.Model.dll
+D:\C\Máv infó\Domain\FelevesFeladat.Model\bin\Debug\net8.0\FelevesFeladat.Model.pdb
+D:\C\Máv infó\Domain\FelevesFeladat.Model\obj\Debug\net8.0\FelevesFeladat.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Máv infó\Domain\FelevesFeladat.Model\obj\Debug\net8.0\FelevesFeladat.Model.AssemblyInfoInputs.cache
+D:\C\Máv infó\Domain\FelevesFeladat.Model\obj\Debug\net8.0\FelevesFeladat.Model.AssemblyInfo.cs
+D:\C\Máv infó\Domain\FelevesFeladat.Model\obj\Debug\net8.0\FelevesFeladat.Model.csproj.CoreCompileInputs.cache
+D:\C\Máv infó\Domain\FelevesFeladat.Model\obj\Debug\net8.0\FelevesFeladat.Model.dll
+D:\C\Máv infó\Domain\FelevesFeladat.Model\obj\Debug\net8.0\refint\FelevesFeladat.Model.dll
+D:\C\Máv infó\Domain\FelevesFeladat.Model\obj\Debug\net8.0\FelevesFeladat.Model.pdb
+D:\C\Máv infó\Domain\FelevesFeladat.Model\obj\Debug\net8.0\ref\FelevesFeladat.Model.dll
+D:\C\Máv3\Domain\FelevesFeladat.Model\bin\Debug\net8.0\FelevesFeladat.Model.deps.json
+D:\C\Máv3\Domain\FelevesFeladat.Model\bin\Debug\net8.0\FelevesFeladat.Model.dll
+D:\C\Máv3\Domain\FelevesFeladat.Model\bin\Debug\net8.0\FelevesFeladat.Model.pdb
+D:\C\Máv3\Domain\FelevesFeladat.Model\obj\Debug\net8.0\FelevesFeladat.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Máv3\Domain\FelevesFeladat.Model\obj\Debug\net8.0\FelevesFeladat.Model.AssemblyInfoInputs.cache
+D:\C\Máv3\Domain\FelevesFeladat.Model\obj\Debug\net8.0\FelevesFeladat.Model.AssemblyInfo.cs
+D:\C\Máv3\Domain\FelevesFeladat.Model\obj\Debug\net8.0\FelevesFeladat.Model.csproj.CoreCompileInputs.cache
+D:\C\Máv3\Domain\FelevesFeladat.Model\obj\Debug\net8.0\FelevesFeladat.Model.dll
+D:\C\Máv3\Domain\FelevesFeladat.Model\obj\Debug\net8.0\refint\FelevesFeladat.Model.dll
+D:\C\Máv3\Domain\FelevesFeladat.Model\obj\Debug\net8.0\FelevesFeladat.Model.pdb
+D:\C\Máv3\Domain\FelevesFeladat.Model\obj\Debug\net8.0\ref\FelevesFeladat.Model.dll

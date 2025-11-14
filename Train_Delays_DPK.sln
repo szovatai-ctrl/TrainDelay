@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{06CFFD70-14AA-A959-A3BA-1B15D094E3B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FelevesFeladat.Console", "Presentation\Console\FelevesFeladat.Console.csproj", "{BD38F7F1-DED0-440A-8C93-F525E4D1B798}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{A74F262E-BDE7-D5D2-89E9-785413424D0A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{996CEBED-A05B-5D42-3FF0-982E087A2599}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{DFEE68D8-A7D0-1A41-506C-9B74AA9A7B7B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{0AB3BF05-4346-4AA6-1389-037BE0695223}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FelevesFeladat.Application", "Application\FelevesFeladat.Application\FelevesFeladat.Application.csproj", "{037EA3ED-61A2-4099-B903-A65C88066662}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FelevesFeladat.Persistence.MsSql", "Infrastructure\FelevesFeladat.Persistence.MsSql\FelevesFeladat.Persistence.MsSql.csproj", "{5853BE26-0436-4060-B219-2B20B3C6FF36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FelevesFeladat.Model", "Domain\FelevesFeladat.Model\FelevesFeladat.Model.csproj", "{5A26F93D-A1A3-4F15-8F2C-A8B8032A85E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FelevesFeladat.Tests", "Tests\FelevesFeladat.Tests\FelevesFeladat.Tests.csproj", "{02BF07FC-768C-400F-9F66-1977AED19686}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD38F7F1-DED0-440A-8C93-F525E4D1B798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD38F7F1-DED0-440A-8C93-F525E4D1B798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD38F7F1-DED0-440A-8C93-F525E4D1B798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD38F7F1-DED0-440A-8C93-F525E4D1B798}.Release|Any CPU.Build.0 = Release|Any CPU
+		{037EA3ED-61A2-4099-B903-A65C88066662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037EA3ED-61A2-4099-B903-A65C88066662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037EA3ED-61A2-4099-B903-A65C88066662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037EA3ED-61A2-4099-B903-A65C88066662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5853BE26-0436-4060-B219-2B20B3C6FF36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5853BE26-0436-4060-B219-2B20B3C6FF36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5853BE26-0436-4060-B219-2B20B3C6FF36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5853BE26-0436-4060-B219-2B20B3C6FF36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A26F93D-A1A3-4F15-8F2C-A8B8032A85E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A26F93D-A1A3-4F15-8F2C-A8B8032A85E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A26F93D-A1A3-4F15-8F2C-A8B8032A85E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A26F93D-A1A3-4F15-8F2C-A8B8032A85E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02BF07FC-768C-400F-9F66-1977AED19686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02BF07FC-768C-400F-9F66-1977AED19686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02BF07FC-768C-400F-9F66-1977AED19686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02BF07FC-768C-400F-9F66-1977AED19686}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BD38F7F1-DED0-440A-8C93-F525E4D1B798} = {06CFFD70-14AA-A959-A3BA-1B15D094E3B1}
+		{037EA3ED-61A2-4099-B903-A65C88066662} = {A74F262E-BDE7-D5D2-89E9-785413424D0A}
+		{5853BE26-0436-4060-B219-2B20B3C6FF36} = {DFEE68D8-A7D0-1A41-506C-9B74AA9A7B7B}
+		{5A26F93D-A1A3-4F15-8F2C-A8B8032A85E7} = {996CEBED-A05B-5D42-3FF0-982E087A2599}
+		{02BF07FC-768C-400F-9F66-1977AED19686} = {0AB3BF05-4346-4AA6-1389-037BE0695223}
+	EndGlobalSection
+EndGlobal
